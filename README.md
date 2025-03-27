@@ -1,6 +1,6 @@
 ## Hii👋 I'm Arup Patra
 
-🌱 I’m currently learning Node.js and Express.js<br><br>
+🌱 I’m currently learning Express.js and React.js<br><br>
 
 
 ## 🌐 Socials:
