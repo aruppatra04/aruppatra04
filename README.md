@@ -40,7 +40,6 @@
 <a href="https://www.geeksforgeeks.org/user/arup04/" target="blank"><img align="center" src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="arup04" /></a>
 <a href="https://codeforces.com/profile/arup-04" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-6DA55F?style=for-the-badge&logo=codeforces&logoColor=white" alt="arup-04" /></a>
 <a href="https://www.codechef.com/users/arup04" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-pink?style=for-the-badge&logo=codechef&logoColor=brown" alt="arup04" /></a>
-
 <br>
 
 ## SKILLS:
