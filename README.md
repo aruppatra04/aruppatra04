@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&weight=500&duration=5000&pause=700&color=02F769&background=15151500&center=true&vCenter=true&random=false&width=435&lines=Hello!+I'm+Arup+Patra;Aspiring+Software+Engineer" alt="Typing SVG"/></a>
 </div>
 <div align="center"> 
- <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47n6zhhigysy3gqfclmqxckcv4v5dt7se8dfc3vg6y&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="gif"/>
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVrajZxNXl3NTB4aTdmdThkMGhlYzdlemhodWx0dXBwdHJ2ZmpyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="gif"/>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aruppatra04&label=Profile%20views&color=0e75b6&style=flat" alt="aruppatra04" /> </p>
 
