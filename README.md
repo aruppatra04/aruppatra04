@@ -15,7 +15,6 @@
   Education:
     Degree: "BTech in Computer Science and System Engineering"
     University: "KIIT University"
-    CGPA: "8.38/10"
   Coding achievements:
     - "Leetcode (1514) "
     - "GFG (1660) 3 Star"
