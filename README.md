@@ -30,7 +30,7 @@
 ## 🌐 CONNECT WITH ME HERE:
 <p align="left">
 <a href="https://www.linkedin.com/in/aruppatra/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/aruppatra/"  /></a>
-<a href="https://medium.com/@arup_patra" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@arup_patra"  /></a>
+<!-- <a href="https://medium.com/@arup_patra" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@arup_patra"  /></a> -->
 <a href="https://www.instagram.com/arup.patra04/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="https://www.instagram.com/arup.patra04/" /></a>
 <a href="https://x.com/arup_patra04" target="blank"><img align="center" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=X&logoColor=white" alt="https://twitter.com/arup_patra04" /></a>
 
