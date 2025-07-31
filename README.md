@@ -16,9 +16,9 @@
     Degree: "BTech in Computer Science and System Engineering"
     University: "KIIT University"
   Coding achievements:
-    - "Leetcode (1514) "
-    - "GFG (1660) 3 Star"
-    - "CodeChef (1356) 1 Star"
+    - "Leetcode (1588) "
+    - "GFG (1700+) 3 Star"
+    - "CodeChef (1400) 2 Star"
   Specialization:
     - "Data Structure and Algorithms"
     - "Full Stack Development"
