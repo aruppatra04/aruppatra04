@@ -16,15 +16,16 @@
     Degree: "BTech in Computer Science and System Engineering"
     University: "KIIT University"
   Coding achievements:
-    - "Leetcode (1588) "
+    - "Leetcode (1648) "
     - "GFG (1700+) 3 Star"
     - "CodeChef (1400) 2 Star"
+    - "Coding Ninja (1529)"
   Specialization:
     - "Data Structure and Algorithms"
     - "Full Stack Development"
   Currently_learning:
   - "React.js"
-  - "MongoDB"
+  - "Gen AI"
 ```
 
 ## 🌐 CONNECT WITH ME HERE:
